@@ -1,0 +1,12 @@
+.black {
+    background: #282c34;
+    color: white;
+}
+
+.red {
+    background: red;
+    color: yellow;
+}
+h1 {
+    font-family: Helvetica, Arial, "Arial Black";
+}
